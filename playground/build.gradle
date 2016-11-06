@@ -41,6 +41,9 @@ dependencies {
     compile "io.requery:requery-android:${IO_REQUERY_VERSION}"
     apt "io.requery:requery-processor:${IO_REQUERY_VERSION}"
 
+    compile 'io.reactivex:rxandroid:1.2.1'
+    compile 'io.reactivex:rxjava:1.1.6'
+
     compile "com.google.dagger:dagger:${GOOGLE_DAGGER_VERSION}"
     apt "com.google.dagger:dagger-compiler:${GOOGLE_DAGGER_VERSION}"
 
