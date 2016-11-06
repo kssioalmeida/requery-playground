@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Requery Plaground</string>
+    <string name="save">Save</string>
+    <string name="new_contact">New Contact</string>
+    <string name="name">Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="age">Age</string>
+    <string name="phone">Phone</string>
+    <string name="mail">Mail</string>
 </resources>
