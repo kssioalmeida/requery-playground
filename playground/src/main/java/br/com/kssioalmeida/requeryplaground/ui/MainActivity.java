@@ -1,4 +1,4 @@
-package br.com.kssioalmeida.requeryplaground;
+package br.com.kssioalmeida.requeryplaground.ui;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -8,9 +8,9 @@ import android.widget.Toast;
 
 import javax.inject.Inject;
 
+import br.com.kssioalmeida.requeryplaground.R;
 import br.com.kssioalmeida.requeryplaground.domain.entity.Contact;
-import br.com.kssioalmeida.requeryplaground.repository.ContactRepository;
-import br.com.kssioalmeida.requeryplaground.ui.BaseActivity;
+import br.com.kssioalmeida.requeryplaground.domain.repository.ContactRepository;
 
 public class MainActivity extends BaseActivity {
 

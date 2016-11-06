@@ -2,7 +2,7 @@ package br.com.kssioalmeida.requeryplaground.dagger.module.domain;
 
 import javax.inject.Singleton;
 
-import br.com.kssioalmeida.requeryplaground.repository.ContactRepository;
+import br.com.kssioalmeida.requeryplaground.domain.repository.ContactRepository;
 import dagger.Module;
 import dagger.Provides;
 import io.requery.Persistable;

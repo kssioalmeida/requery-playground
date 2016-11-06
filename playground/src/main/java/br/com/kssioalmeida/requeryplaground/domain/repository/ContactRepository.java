@@ -1,4 +1,4 @@
-package br.com.kssioalmeida.requeryplaground.repository;
+package br.com.kssioalmeida.requeryplaground.domain.repository;
 
 import javax.inject.Inject;
 
